@@ -1,6 +1,6 @@
 # Stopwatch with CustomTkinter
 
-![Stopwatch Screenshot](stopwatch.png)
+![Stopwatch Screenshot](img/stopwatch-screenshot.png)
 
 
 ## Description
