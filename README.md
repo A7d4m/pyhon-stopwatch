@@ -1,4 +1,4 @@
-# Stopwatch with CustomTkinter
+# Stopwatch
 
 ![Stopwatch Screenshot](Stopwatch/img/stopwatch-screenshot.png)
 
